@@ -2,7 +2,7 @@
 #include "colorManagement.h"
 
 int main(int argc, char *argv[]){
-	std::cout << argv[1] << " " << argv[2] << std::endl; 
+	std::cout << "Pal: " << argv[1] << std::endl << "Img: " << argv[2] << std::endl; 
 	Palette loaded(argv[1]);
 	
 	int width, height, channels;
