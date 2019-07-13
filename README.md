@@ -9,6 +9,17 @@ A small c++ command line tool for converting images to a palette with indexed di
 
 Palettes follow a simple numbered format, such as the ones found in *Aseprite*.
 
-![example](https://cdn.discordapp.com/attachments/294228850500435969/599439471934701569/unknown.png)
+![example](https://cdn.discordapp.com/attachments/294228850500435969/599439471934701569/unknown.png "Lots of numbers.")
 
-**The conversion algorithm is based on the Knoll-Yliluoma method by Bisqwit, a popular programming creator. Check his content out.**
+**The conversion algorithm is based on the [Knoll-Yliluoma method by Bisqwit](https://bisqwit.iki.fi/story/howto/dither/jy/), a popular programming creator. Check his content out.**
+
+# Example of Usage
+Here is a photo of one of my characters.
+
+![dom](https://cdn.discordapp.com/attachments/294228850500435969/599441695687573544/dom.png "Say hi to Dom.")
+
+Here is the result from converting to the [*simplejpc-16* palette](https://lospec.com/palette-list/simplejpc-16).
+
+![domConvert](https://cdn.discordapp.com/attachments/294228850500435969/599441705623617546/result.png "Dom plays checkers now.")
+
+Have fun using this tool. If you have any questions or problems, put them on issues. You can also contact me on twitter @StarPrankster. I anwser at the speed of light.
