@@ -5,7 +5,7 @@
 #include <limits>
 #include <cstdint>
 
-//This header also implements the Knoll-Yilluoma dither algorithm
+//This header also implements the Knoll-Yliluoma dither algorithm
 //as described in Biqswit's article here:
 //https://bisqwit.iki.fi/story/howto/dither/jy/
 
