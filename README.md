@@ -1,4 +1,5 @@
-# Palette-Master
+![hehref](https://cdn.discordapp.com/attachments/294228850500435969/599446666453712909/palTitle.png "Not the blasting kind!")
+
 A small c++ command line tool for converting images to a palette with indexed dithering.
 
 # Building
